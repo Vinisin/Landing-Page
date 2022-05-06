@@ -1,0 +1,202 @@
+body{background-color: #1F2A44;}
+#title{
+    position: absolute;
+    width: 917px;
+    height: 119px;
+    left: 0px;
+    top: 0px;
+    
+    background: #8F8470;
+}
+h1{
+position: absolute;
+width: 2500px;
+height: 44px;
+left: 75px;
+top: 8px;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 700;
+font-size: 37px;
+line-height: 44px;
+
+color: #FFFFFF;
+}
+h2{
+position: absolute;
+width: 119px;
+height: 40px;
+left: 500px;
+top: 25px;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 20px;
+letter-spacing: 0.13em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+h3{
+    position: absolute;
+width: 46.62px;
+height: 0px;
+left: 390px;
+top: 38px;
+
+opacity: 0.3;
+border: 1px solid #FFFFFF;
+transform: rotate(112.71deg);
+}
+h4{
+    position: absolute;
+    width: 300.5px;
+    height: 0px;
+    left: 45px;
+    top: 40px;
+
+    opacity: 0.3;
+    border: 1px solid #FFFFFF;
+    transform: rotate(-180deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nav{
+    background-color:#1F2A44;
+    position: absolute;
+    width: 880px;
+    height: 119px;
+    top: 0px;
+    left: 720px;
+}
+.menu-topo{
+    list-style:none
+}
+.menu-sobre{
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    
+}
+.menu-areas{
+    position: absolute;
+    top: 50px;
+    left: 475px;
+}
+.menu-blog{
+    position: absolute;
+    top: 50px;
+    left: 660px;
+}
+.menu-orca{
+    position: absolute;
+    top: 50px;
+    left: 720px;
+}
+.menu-orca:hover{background-color: #8F8470;}
+a{
+    font-family: 'Barlow';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 20px;
+letter-spacing: 0.045em;
+}
+a:link {
+    color:white;
+    text-decoration:none;
+  }
+  a:visited {
+    color:white;
+    text-decoration:none;
+  }
+  a:hover {
+    color:white;
+    background-color: #8F8470;
+    padding: 5px;
+  }
+
+
+
+
+
+
+
+
+.conteudo{
+    background-color: #1F2A44;
+    position: absolute;
+    height: 1080;
+    width: 1920;
+    top: 400px;
+}
+
+
+
+
+.maior{
+position: absolute;
+width: 650px;
+height: 288px;
+left: 900px;
+top: -260px;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 00;
+font-size: 60px;
+line-height: 90px;
+/* or 112% */
+
+
+color: white;
+}
+
+.menor{
+    position: absolute;
+width: 616px;
+height: 83px;
+left: 900px;
+top: 10px;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 39px;
+/* or 140% */
+
+
+color: #FFFFFF;
+}
+
+.botao-cont{
+    position: absolute;
+width: 369px;
+height: 87px;
+left: 900px;
+top: 160px;
+
+background: #FFFFFF;
+opacity: 0.05;
+}
